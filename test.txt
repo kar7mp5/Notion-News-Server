@@ -1,0 +1,1 @@
+0 * * * * /home/kar7mp5/Projects/Notion-News-Server/server.sh >> /home/kar7mp5/Projects/Notion-News-Server/server.log 2>&1
