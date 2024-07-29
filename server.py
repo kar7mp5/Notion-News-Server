@@ -1,9 +1,10 @@
 from notion_news_crawler import NaverAPI, UploadToDataBase, ResetDatabase
 from datetime import datetime
 
+
 if __name__=='__main__':
     print(datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
-    
+
     reset_database = ResetDatabase()
     reset_database.delete_all_pages()
 
