@@ -1,4 +1,4 @@
-# Notion-News-Server
+# Notion_News_Server
 
 Update the news every hour.
 
